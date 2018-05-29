@@ -1,0 +1,15 @@
+{
+  "name": "ha-socket-map",
+  "version": "0.0.1",
+  "description": "mapbox multiplayer proto",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  }
+}
